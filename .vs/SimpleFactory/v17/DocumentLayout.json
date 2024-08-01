@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\asus\\documents\\github\\c#\\simplefactory\\simplefactory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\burgerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\asus\\documents\\github\\c#\\simplefactory\\simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\asus\\documents\\github\\c#\\simplefactory\\simplefactory\\resturent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\resturent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\asus\\documents\\github\\c#\\simplefactory\\simplefactory\\chikenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\chikenburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\asus\\documents\\github\\c#\\simplefactory\\simplefactory\\veggiburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\veggiburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\asus\\documents\\github\\c#\\simplefactory\\simplefactory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\burger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|c:\\users\\asus\\documents\\github\\c#\\simplefactory\\simplefactory\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4316C78D-A314-460E-A788-87D62470692D}|SimpleFactory\\SimpleFactory.csproj|solutionrelative:simplefactory\\beefburger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChikenBurger.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\ChikenBurger.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\ChikenBurger.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\ChikenBurger.cs",
+              "RelativeToolTip": "SimpleFactory\\ChikenBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:13:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resturent.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\Resturent.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Resturent.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\Resturent.cs",
+              "RelativeToolTip": "SimpleFactory\\Resturent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T06:01:18.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BurgerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\BurgerFactory.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\BurgerFactory.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\BurgerFactory.cs",
+              "RelativeToolTip": "SimpleFactory\\BurgerFactory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:54:59.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VeggiBurger.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\VeggiBurger.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\VeggiBurger.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\VeggiBurger.cs",
+              "RelativeToolTip": "SimpleFactory\\VeggiBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:52:15.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BeefBurger.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\BeefBurger.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\BeefBurger.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\BeefBurger.cs",
+              "RelativeToolTip": "SimpleFactory\\BeefBurger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:49:34.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Burger.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\Burger.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Burger.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\Burger.cs",
+              "RelativeToolTip": "SimpleFactory\\Burger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:47:16.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleFactory\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Documents\\GitHub\\C#\\SimpleFactory\\SimpleFactory\\Program.cs",
+              "RelativeToolTip": "SimpleFactory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:46:28.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
